@@ -1,4 +1,4 @@
-# Layers code for ICAMCS 2024 paper "Light-weight YOLOv8-seg Model Based on C2f-Faster-EMA For Ripeness Segmentation in Tomatoes and Applications"
+# Layers code and evaluations tutorial for ICAMCS 2024 paper "Light-weight YOLOv8-seg Model Based on C2f-Faster-EMA For Ripeness Segmentation in Tomatoes and Applications"
 
 Train CFE-Yolov8-seg in custom dataset tutorial
 ```bash
